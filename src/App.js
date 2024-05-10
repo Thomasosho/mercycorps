@@ -5,14 +5,17 @@ import { ToastContainer } from "react-toastify";
 import Footer from "../src/components/Footer";
 import Nav from "../src/components/Nav";
 import PageNotFound from "./pages/PageNotFound";
+import { AuthProvider } from "./contexts/AuthContext";
 
 const Layout = () => {
   return (
     <>
-      <Nav />
-      <ToastContainer />
-      <Outlet />
-      <Footer />
+      <AuthProvider>
+        <Nav />
+        <ToastContainer />
+        <Outlet />
+        <Footer />
+      </AuthProvider>
     </>
   );
 };
