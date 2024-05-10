@@ -1,0 +1,1302 @@
+[
+  {
+    "tender_id": "MC_Tender_001",
+    "title": "Construction Project",
+    "description": "Mercy Corps is seeking bids for a construction project in [Location]. The project involves [Brief description of the project].",
+    "location": "Country X",
+    "deadline": "2024-06-15",
+    "budget": "50000 USD",
+    "contact_person": {
+      "name": "John Doe",
+      "email": "johndoe@mercycorps.org",
+      "phone": "+1234567890"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_002",
+    "title": "Supply of Equipment",
+    "description": "Mercy Corps requires the procurement and delivery of [Type of Equipment] for [Purpose of Equipment]. The equipment should meet [Specifications].",
+    "location": "Country Y",
+    "deadline": "2024-07-10",
+    "budget": "75000 USD",
+    "contact_person": {
+      "name": "Jane Smith",
+      "email": "janesmith@mercycorps.org",
+      "phone": "+1987654321"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_003",
+    "title": "Consultancy Services",
+    "description": "Mercy Corps is soliciting proposals from qualified consultants to provide [Type of Consultancy Service] for [Purpose of Consultancy Service]. The consultant will be responsible for [Tasks/Responsibilities].",
+    "location": "Country Z",
+    "deadline": "2024-08-20",
+    "budget": "100000 USD",
+    "contact_person": {
+      "name": "Alice Johnson",
+      "email": "alicejohnson@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_004",
+    "title": "Renewable Energy Project",
+    "description": "Mercy Corps seeks proposals for the implementation of a renewable energy project in [Location]. The project aims to [Goal of the project].",
+    "location": "Country A",
+    "deadline": "2024-09-30",
+    "budget": "200000 USD",
+    "contact_person": {
+      "name": "David Brown",
+      "email": "davidbrown@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_005",
+    "title": "Healthcare Equipment Supply",
+    "description": "Mercy Corps is seeking bids for the procurement and delivery of healthcare equipment for clinics in [Location]. The equipment should meet international standards and specifications.",
+    "location": "Country B",
+    "deadline": "2024-10-15",
+    "budget": "100000 USD",
+    "contact_person": {
+      "name": "Emily Wilson",
+      "email": "emilywilson@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_006",
+    "title": "Education Program Development",
+    "description": "Mercy Corps invites proposals for the development of an education program targeting [Target beneficiaries] in [Location]. The program should focus on [Program objectives] and incorporate innovative teaching methodologies.",
+    "location": "Country C",
+    "deadline": "2024-11-05",
+    "budget": "150000 USD",
+    "contact_person": {
+      "name": "Michael Johnson",
+      "email": "michaeljohnson@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_007",
+    "title": "Food Distribution Services",
+    "description": "Mercy Corps is soliciting bids for food distribution services in [Location]. The selected vendor will be responsible for [Scope of Services].",
+    "location": "Country D",
+    "deadline": "2024-12-20",
+    "budget": "80000 USD",
+    "contact_person": {
+      "name": "Sarah Davis",
+      "email": "sarahdavis@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_008",
+    "title": "Emergency Shelter Construction",
+    "description": "Mercy Corps is seeking proposals for the construction of emergency shelters in [Location]. The shelters should be durable and able to withstand adverse weather conditions.",
+    "location": "Country E",
+    "deadline": "2025-01-10",
+    "budget": "120000 USD",
+    "contact_person": {
+      "name": "Alexandra White",
+      "email": "alexandrawhite@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_009",
+    "title": "Waste Management Project",
+    "description": "Mercy Corps seeks proposals for the implementation of a waste management project in [Location]. The project aims to [Objective of the project] while promoting environmental sustainability.",
+    "location": "Country F",
+    "deadline": "2025-02-15",
+    "budget": "90000 USD",
+    "contact_person": {
+      "name": "Christopher Lee",
+      "email": "christopherlee@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_010",
+    "title": "Livelihoods Enhancement Program",
+    "description": "Mercy Corps invites proposals for a livelihoods enhancement program targeting vulnerable populations in [Location]. The program should focus on [Areas of focus] and aim to improve economic resilience.",
+    "location": "Country G",
+    "deadline": "2025-03-20",
+    "budget": "180000 USD",
+    "contact_person": {
+      "name": "Jessica Martinez",
+      "email": "jessicamartinez@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_011",
+    "title": "Water Sanitation and Hygiene (WASH) Project",
+    "description": "Mercy Corps is soliciting proposals for the implementation of a WASH project in [Location]. The project aims to improve access to clean water, sanitation, and hygiene facilities.",
+    "location": "Country H",
+    "deadline": "2025-04-25",
+    "budget": "150000 USD",
+    "contact_person": {
+      "name": "Daniel Harris",
+      "email": "danielharris@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_012",
+    "title": "Agricultural Inputs Supply",
+    "description": "Mercy Corps requires the procurement and delivery of agricultural inputs including seeds, fertilizers, and tools for smallholder farmers in [Location]. The inputs should be of high quality and suitable for local conditions.",
+    "location": "Country I",
+    "deadline": "2025-05-30",
+    "budget": "100000 USD",
+    "contact_person": {
+      "name": "Olivia Taylor",
+      "email": "oliviataylor@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_013",
+    "title": "Training Program for Women Entrepreneurs",
+    "description": "Mercy Corps is seeking proposals for a training program aimed at empowering women entrepreneurs in [Location]. The program should cover [Topics] and provide mentorship and networking opportunities.",
+    "location": "Country J",
+    "deadline": "2025-06-10",
+    "budget": "60000 USD",
+    "contact_person": {
+      "name": "William Anderson",
+      "email": "williamanderson@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_014",
+    "title": "Community Infrastructure Development",
+    "description": "Mercy Corps invites proposals for the development of community infrastructure projects in [Location]. The projects should enhance [Aspect of community life] and promote social cohesion.",
+    "location": "Country K",
+    "deadline": "2025-07-15",
+    "budget": "120000 USD",
+    "contact_person": {
+      "name": "Sophia Rodriguez",
+      "email": "sophiarodriguez@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_015",
+    "title": "Youth Empowerment Program",
+    "description": "Mercy Corps seeks proposals for a youth empowerment program in [Location]. The program should focus on [Areas of focus] and provide opportunities for skill development and leadership training.",
+    "location": "Country L",
+    "deadline": "2025-08-20",
+    "budget": "80000 USD",
+    "contact_person": {
+      "name": "Ethan Thompson",
+      "email": "ethanthompson@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_016",
+    "title": "Emergency Response Supplies",
+    "description": "Mercy Corps requires the procurement and delivery of emergency response supplies including food, shelter, and medical kits for [Location]. The supplies should be sufficient to meet the needs of [Number] beneficiaries.",
+    "location": "Country M",
+    "deadline": "2025-09-25",
+    "budget": "250000 USD",
+    "contact_person": {
+      "name": "Natalie Scott",
+      "email": "nataliescott@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_017",
+    "title": "Gender Equality Program",
+    "description": "Mercy Corps is soliciting proposals for a gender equality program in [Location]. The program should address [Issues] and promote women's empowerment and social inclusion.",
+    "location": "Country N",
+    "deadline": "2025-10-30",
+    "budget": "120000 USD",
+    "contact_person": {
+      "name": "Lucas Clark",
+      "email": "lucasclark@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_018",
+    "title": "Renewable Energy Installation",
+    "description": "Mercy Corps seeks proposals for the installation of renewable energy systems in [Location]. The systems should provide reliable and sustainable energy sources for [Beneficiaries].",
+    "location": "Country O",
+    "deadline": "2025-11-25",
+    "budget": "180000 USD",
+    "contact_person": {
+      "name": "Isabella Martinez",
+      "email": "isabellamartinez@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_019",
+    "title": "Capacity Building Workshop",
+    "description": "Mercy Corps is organizing a capacity building workshop for [Target audience] in [Location]. The workshop aims to [Objectives] and enhance participants' skills and knowledge.",
+    "location": "Country P",
+    "deadline": "2025-12-20",
+    "budget": "60000 USD",
+    "contact_person": {
+      "name": "Jacob Wilson",
+      "email": "jacobwilson@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_020",
+    "title": "Microfinance Program",
+    "description": "Mercy Corps invites proposals for a microfinance program to support entrepreneurs and small businesses in [Location]. The program should provide access to [Financial services] and promote economic growth.",
+    "location": "Country Q",
+    "deadline": "2026-01-25",
+    "budget": "150000 USD",
+    "contact_person": {
+      "name": "Ava Moore",
+      "email": "avamoore@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_021",
+    "title": "Disaster Risk Reduction Project",
+    "description": "Mercy Corps seeks proposals for a disaster risk reduction project in [Location]. The project aims to [Objective] and enhance community resilience to natural disasters.",
+    "location": "Country R",
+    "deadline": "2026-02-20",
+    "budget": "120000 USD",
+    "contact_person": {
+      "name": "Dylan Garcia",
+      "email": "dylangarcia@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_022",
+    "title": "Community Health Program",
+    "description": "Mercy Corps is soliciting proposals for a community health program in [Location]. The program should focus on [Health issues] and provide access to quality healthcare services.",
+    "location": "Country S",
+    "deadline": "2026-03-25",
+    "budget": "100000 USD",
+    "contact_person": {
+      "name": "Madison Hall",
+      "email": "madisonhall@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_023",
+    "title": "Skills Training Program",
+    "description": "Mercy Corps invites proposals for a skills training program targeting [Target beneficiaries] in [Location]. The program should focus on [Skills] and provide opportunities for employment or entrepreneurship.",
+    "location": "Country T",
+    "deadline": "2026-04-30",
+    "budget": "80000 USD",
+    "contact_person": {
+      "name": "Elijah Parker",
+      "email": "elijahparker@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_024",
+    "title": "Emergency Medical Services",
+    "description": "Mercy Corps requires the provision of emergency medical services in [Location]. The services should include [Scope of Services] and be available 24/7.",
+    "location": "Country U",
+    "deadline": "2026-05-25",
+    "budget": "150000 USD",
+    "contact_person": {
+      "name": "Zoe Phillips",
+      "email": "zoephillips@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_025",
+    "title": "Education Infrastructure Development",
+    "description": "Mercy Corps seeks proposals for the development of education infrastructure in [Location]. The project aims to [Objective] and improve access to quality education.",
+    "location": "Country V",
+    "deadline": "2026-06-30",
+    "budget": "180000 USD",
+    "contact_person": {
+      "name": "Mia King",
+      "email": "miaking@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_026",
+    "title": "Community-Based Rehabilitation Program",
+    "description": "Mercy Corps is organizing a community-based rehabilitation program for [Target beneficiaries] in [Location]. The program aims to [Objective] and improve the quality of life for participants.",
+    "location": "Country W",
+    "deadline": "2026-07-20",
+    "budget": "100000 USD",
+    "contact_person": {
+      "name": "Noah Wright",
+      "email": "noahwright@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_027",
+    "title": "Climate Change Adaptation Project",
+    "description": "Mercy Corps seeks proposals for a climate change adaptation project in [Location]. The project aims to [Objective] and build resilience to climate-related risks.",
+    "location": "Country X",
+    "deadline": "2026-08-15",
+    "budget": "120000 USD",
+    "contact_person": {
+      "name": "Liam Turner",
+      "email": "liamturner@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_028",
+    "title": "Nutrition Program",
+    "description": "Mercy Corps invites proposals for a nutrition program targeting [Target beneficiaries] in [Location]. The program should focus on [Nutritional issues] and promote healthy eating habits.",
+    "location": "Country Y",
+    "deadline": "2026-09-10",
+    "budget": "80000 USD",
+    "contact_person": {
+      "name": "Emma Stewart",
+      "email": "emmastewart@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_029",
+    "title": "Peacebuilding Initiative",
+    "description": "Mercy Corps is soliciting proposals for a peacebuilding initiative in [Location]. The initiative should promote [Objective] and foster reconciliation and social cohesion.",
+    "location": "Country Z",
+    "deadline": "2026-10-05",
+    "budget": "150000 USD",
+    "contact_person": {
+      "name": "Aiden Murphy",
+      "email": "aidenmurphy@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_030",
+    "title": "Digital Literacy Program",
+    "description": "Mercy Corps seeks proposals for a digital literacy program targeting [Target beneficiaries] in [Location]. The program should cover [Topics] and promote digital inclusion.",
+    "location": "Country A",
+    "deadline": "2026-11-20",
+    "budget": "100000 USD",
+    "contact_person": {
+      "name": "Charlotte Hill",
+      "email": "charlottehill@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_031",
+    "title": "Emergency Food Assistance",
+    "description": "Mercy Corps requires the provision of emergency food assistance in [Location]. The assistance should include [Scope of Services] and be provided to [Number] beneficiaries.",
+    "location": "Country B",
+    "deadline": "2026-12-15",
+    "budget": "200000 USD",
+    "contact_person": {
+      "name": "Jackie Turner",
+      "email": "jackieturner@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_032",
+    "title": "Livestock Vaccination Campaign",
+    "description": "Mercy Corps invites proposals for a livestock vaccination campaign in [Location]. The campaign aims to [Objective] and improve animal health and productivity.",
+    "location": "Country C",
+    "deadline": "2027-01-10",
+    "budget": "120000 USD",
+    "contact_person": {
+      "name": "Benjamin Foster",
+      "email": "benjaminfoster@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_033",
+    "title": "Community Empowerment Program",
+    "description": "Mercy Corps seeks proposals for a community empowerment program in [Location]. The program should focus on [Objective] and engage community members in decision-making and development activities.",
+    "location": "Country D",
+    "deadline": "2027-02-05",
+    "budget": "150000 USD",
+    "contact_person": {
+      "name": "Rachel Cooper",
+      "email": "rachelcooper@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_034",
+    "title": "Housing Rehabilitation Project",
+    "description": "Mercy Corps is soliciting proposals for a housing rehabilitation project in [Location]. The project aims to [Objective] and improve living conditions for [Number] households.",
+    "location": "Country E",
+    "deadline": "2027-03-20",
+    "budget": "180000 USD",
+    "contact_person": {
+      "name": "Tyler Gray",
+      "email": "tylergray@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_035",
+    "title": "Disability Inclusion Program",
+    "description": "Mercy Corps invites proposals for a disability inclusion program in [Location]. The program should promote [Objective] and ensure the participation and inclusion of persons with disabilities.",
+    "location": "Country F",
+    "deadline": "2027-04-15",
+    "budget": "100000 USD",
+    "contact_person": {
+      "name": "Avery Martinez",
+      "email": "averymartinez@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_036",
+    "title": "Child Protection Program",
+    "description": "Mercy Corps seeks proposals for a child protection program in [Location]. The program should focus on [Objective] and ensure the safety and well-being of children.",
+    "location": "Country G",
+    "deadline": "2027-05-10",
+    "budget": "120000 USD",
+    "contact_person": {
+      "name": "Peyton Adams",
+      "email": "peytonadams@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_037",
+    "title": "Youth Sports Development Project",
+    "description": "Mercy Corps is organizing a youth sports development project in [Location]. The project aims to [Objective] and promote youth participation in sports and recreational activities.",
+    "location": "Country H",
+    "deadline": "2027-06-25",
+    "budget": "150000 USD",
+    "contact_person": {
+      "name": "Logan Wright",
+      "email": "loganwright@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_038",
+    "title": "Humanitarian Assistance Program",
+    "description": "Mercy Corps seeks proposals for a humanitarian assistance program in [Location]. The program should provide emergency relief to [Affected population] and address immediate needs.",
+    "location": "Country I",
+    "deadline": "2027-07-20",
+    "budget": "200000 USD",
+    "contact_person": {
+      "name": "Harper Lopez",
+      "email": "harperlopez@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_039",
+    "title": "Environmental Conservation Project",
+    "description": "Mercy Corps invites proposals for an environmental conservation project in [Location]. The project aims to [Objective] and promote sustainable natural resource management.",
+    "location": "Country J",
+    "deadline": "2027-08-15",
+    "budget": "180000 USD",
+    "contact_person": {
+      "name": "Jordan Reed",
+      "email": "jordanreed@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_040",
+    "title": "Community Radio Program",
+    "description": "Mercy Corps is organizing a community radio program in [Location]. The program aims to [Objective] and provide information and entertainment to local communities.",
+    "location": "Country K",
+    "deadline": "2027-09-10",
+    "budget": "100000 USD",
+    "contact_person": {
+      "name": "Mason Peterson",
+      "email": "masonpeterson@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_041",
+    "title": "Inclusive Education Project",
+    "description": "Mercy Corps seeks proposals for an inclusive education project in [Location]. The project should promote [Objective] and ensure access to quality education for all children, including those with disabilities.",
+    "location": "Country L",
+    "deadline": "2027-10-05",
+    "budget": "150000 USD",
+    "contact_person": {
+      "name": "Carter Hayes",
+      "email": "carterhayes@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_042",
+    "title": "Peace Education Program",
+    "description": "Mercy Corps is soliciting proposals for a peace education program in [Location]. The program should focus on [Objective] and promote peacebuilding and conflict resolution skills.",
+    "location": "Country M",
+    "deadline": "2027-11-20",
+    "budget": "120000 USD",
+    "contact_person": {
+      "name": "Gabriel Simmons",
+      "email": "gabrielsimmons@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_043",
+    "title": "Small Business Development Program",
+    "description": "Mercy Corps invites proposals for a small business development program in [Location]. The program should provide [Type of support] to entrepreneurs and small businesses.",
+    "location": "Country N",
+    "deadline": "2027-12-15",
+    "budget": "100000 USD",
+    "contact_person": {
+      "name": "Evelyn Cooper",
+      "email": "evelyncooper@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_044",
+    "title": "Digital Skills Training",
+    "description": "Mercy Corps seeks proposals for a digital skills training program in [Location]. The program should cover [Topics] and provide hands-on training to participants.",
+    "location": "Country O",
+    "deadline": "2028-01-10",
+    "budget": "80000 USD",
+    "contact_person": {
+      "name": "Aria Morgan",
+      "email": "ariamorgan@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_045",
+    "title": "Emergency Shelter Rehabilitation",
+    "description": "Mercy Corps is soliciting proposals for the rehabilitation of emergency shelters in [Location]. The shelters should be repaired and upgraded to withstand future emergencies.",
+    "location": "Country P",
+    "deadline": "2028-02-05",
+    "budget": "120000 USD",
+    "contact_person": {
+      "name": "Zara Hill",
+      "email": "zarahill@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_046",
+    "title": "Water Resource Management Project",
+    "description": "Mercy Corps seeks proposals for a water resource management project in [Location]. The project aims to [Objective] and improve access to clean water for [Number] beneficiaries.",
+    "location": "Country Q",
+    "deadline": "2028-03-20",
+    "budget": "150000 USD",
+    "contact_person": {
+      "name": "Nolan Coleman",
+      "email": "nolancoleman@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_047",
+    "title": "Community Farming Initiative",
+    "description": "Mercy Corps invites proposals for a community farming initiative in [Location]. The initiative should promote sustainable agriculture practices and improve food security.",
+    "location": "Country R",
+    "deadline": "2028-04-15",
+    "budget": "100000 USD",
+    "contact_person": {
+      "name": "Ivy Turner",
+      "email": "ivyturner@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_048",
+    "title": "Health Promotion Campaign",
+    "description": "Mercy Corps is organizing a health promotion campaign in [Location]. The campaign aims to raise awareness about [Health issues] and promote healthy behaviors.",
+    "location": "Country S",
+    "deadline": "2028-05-10",
+    "budget": "80000 USD",
+    "contact_person": {
+      "name": "Harmony Diaz",
+      "email": "harmonydiaz@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_049",
+    "title": "Community Mapping Project",
+    "description": "Mercy Corps seeks proposals for a community mapping project in [Location]. The project aims to [Objective] and empower communities to identify resources and vulnerabilities.",
+    "location": "Country T",
+    "deadline": "2028-06-25",
+    "budget": "120000 USD",
+    "contact_person": {
+      "name": "Cameron Powell",
+      "email": "cameronpowell@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_050",
+    "title": "Emergency Cash Assistance Program",
+    "description": "Mercy Corps invites proposals for an emergency cash assistance program in [Location]. The program should provide financial support to [Affected population] to meet basic needs.",
+    "location": "Country U",
+    "deadline": "2028-07-20",
+    "budget": "150000 USD",
+    "contact_person": {
+      "name": "Skylar Bennett",
+      "email": "skylarbennett@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_051",
+    "title": "Youth Entrepreneurship Program",
+    "description": "Mercy Corps seeks proposals for a youth entrepreneurship program in [Location]. The program should provide training and support to young entrepreneurs to start or grow their businesses.",
+    "location": "Country V",
+    "deadline": "2028-08-15",
+    "budget": "120000 USD",
+    "contact_person": {
+      "name": "Logan Parker",
+      "email": "loganparker@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_052",
+    "title": "Gender-Based Violence Prevention Project",
+    "description": "Mercy Corps invites proposals for a gender-based violence prevention project in [Location]. The project should raise awareness, provide support services, and advocate for policy change.",
+    "location": "Country W",
+    "deadline": "2028-09-10",
+    "budget": "150000 USD",
+    "contact_person": {
+      "name": "Avery Adams",
+      "email": "averyadams@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_053",
+    "title": "Community-Led Disaster Preparedness Project",
+    "description": "Mercy Corps seeks proposals for a community-led disaster preparedness project in [Location]. The project should empower communities to assess risks, develop plans, and build resilience.",
+    "location": "Country X",
+    "deadline": "2028-10-05",
+    "budget": "180000 USD",
+    "contact_person": {
+      "name": "Harper Hayes",
+      "email": "harperhayes@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_054",
+    "title": "Child Education Support Program",
+    "description": "Mercy Corps invites proposals for a child education support program in [Location]. The program should provide scholarships, school supplies, and support services to vulnerable children.",
+    "location": "Country Y",
+    "deadline": "2028-11-20",
+    "budget": "120000 USD",
+    "contact_person": {
+      "name": "Mason Hayes",
+      "email": "masonhayes@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_055",
+    "title": "Livelihoods Recovery Program",
+    "description": "Mercy Corps seeks proposals for a livelihoods recovery program in [Location]. The program should provide support to restore or diversify livelihoods affected by [Cause of disruption].",
+    "location": "Country Z",
+    "deadline": "2028-12-15",
+    "budget": "150000 USD",
+    "contact_person": {
+      "name": "Skylar Clark",
+      "email": "skylarclark@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_056",
+    "title": "Youth Mental Health Program",
+    "description": "Mercy Corps is soliciting proposals for a youth mental health program in [Location]. The program should provide counseling, psychosocial support, and awareness campaigns to address mental health issues among young people.",
+    "location": "Country A",
+    "deadline": "2029-01-10",
+    "budget": "180000 USD",
+    "contact_person": {
+      "name": "Cameron Hill",
+      "email": "cameronhill@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_057",
+    "title": "Environmental Education Project",
+    "description": "Mercy Corps seeks proposals for an environmental education project in [Location]. The project should raise awareness about environmental issues, promote sustainable practices, and engage communities in conservation efforts.",
+    "location": "Country B",
+    "deadline": "2029-02-05",
+    "budget": "150000 USD",
+    "contact_person": {
+      "name": "Nolan Foster",
+      "email": "nolanfoster@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_058",
+    "title": "Youth Civic Engagement Program",
+    "description": "Mercy Corps invites proposals for a youth civic engagement program in [Location]. The program should empower young people to participate in decision-making processes, advocate for their rights, and contribute to community development.",
+    "location": "Country C",
+    "deadline": "2029-03-20",
+    "budget": "120000 USD",
+    "contact_person": {
+      "name": "Ivy Adams",
+      "email": "ivyadams@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_059",
+    "title": "Refugee Integration Program",
+    "description": "Mercy Corps seeks proposals for a refugee integration program in [Location]. The program should provide support services, livelihood opportunities, and social integration initiatives for refugees.",
+    "location": "Country D",
+    "deadline": "2029-04-15",
+    "budget": "180000 USD",
+    "contact_person": {
+      "name": "Logan Foster",
+      "email": "loganfoster@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_060",
+    "title": "Digital Financial Services Project",
+    "description": "Mercy Corps invites proposals for a digital financial services project in [Location]. The project should promote financial inclusion, facilitate access to formal financial services, and improve financial literacy.",
+    "location": "Country E",
+    "deadline": "2029-05-10",
+    "budget": "150000 USD",
+    "contact_person": {
+      "name": "Avery Coleman",
+      "email": "averycoleman@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_061",
+    "title": "Community Health Awareness Campaign",
+    "description": "Mercy Corps is organizing a community health awareness campaign in [Location]. The campaign aims to raise awareness about common health issues, promote preventive measures, and encourage healthy behaviors.",
+    "location": "Country F",
+    "deadline": "2029-06-25",
+    "budget": "120000 USD",
+    "contact_person": {
+      "name": "Mason Simmons",
+      "email": "masonsimmons@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_062",
+    "title": "Microenterprise Development Program",
+    "description": "Mercy Corps seeks proposals for a microenterprise development program in [Location]. The program should provide training, access to finance, and mentorship to microentrepreneurs to start or expand their businesses.",
+    "location": "Country G",
+    "deadline": "2029-07-20",
+    "budget": "150000 USD",
+    "contact_person": {
+      "name": "Harper Martinez",
+      "email": "harpermartinez@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_063",
+    "title": "Peaceful Coexistence Initiative",
+    "description": "Mercy Corps invites proposals for a peaceful coexistence initiative in [Location]. The initiative should bring together diverse communities, promote dialogue, and build trust to prevent conflicts and promote social cohesion.",
+    "location": "Country H",
+    "deadline": "2029-08-15",
+    "budget": "180000 USD",
+    "contact_person": {
+      "name": "Nolan Adams",
+      "email": "nolanadams@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_064",
+    "title": "Livelihoods Skills Training Program",
+    "description": "Mercy Corps is soliciting proposals for a livelihoods skills training program in [Location]. The program should provide vocational training, entrepreneurship skills, and job placement support to vulnerable populations.",
+    "location": "Country I",
+    "deadline": "2029-09-10",
+    "budget": "120000 USD",
+    "contact_person": {
+      "name": "Ivy Clark",
+      "email": "ivyclark@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_065",
+    "title": "Community-Based Disaster Response Project",
+    "description": "Mercy Corps seeks proposals for a community-based disaster response project in [Location]. The project should strengthen local capacities for disaster preparedness, response, and recovery.",
+    "location": "Country J",
+    "deadline": "2029-10-05",
+    "budget": "150000 USD",
+    "contact_person": {
+      "name": "Logan Hayes",
+      "email": "loganhayes@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_066",
+    "title": "School Feeding Program",
+    "description": "Mercy Corps invites proposals for a school feeding program in [Location]. The program should provide nutritious meals to school children, promote food security, and improve attendance and academic performance.",
+    "location": "Country K",
+    "deadline": "2029-11-20",
+    "budget": "180000 USD",
+    "contact_person": {
+      "name": "Avery Powell",
+      "email": "averypowell@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_067",
+    "title": "Community-Led Water and Sanitation Project",
+    "description": "Mercy Corps seeks proposals for a community-led water and sanitation project in [Location]. The project should improve access to clean water and sanitation facilities, promote hygiene practices, and empower communities to manage and maintain infrastructure.",
+    "location": "Country L",
+    "deadline": "2029-12-15",
+    "budget": "200000 USD",
+    "contact_person": {
+      "name": "Mason Reed",
+      "email": "masonreed@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_068",
+    "title": "Youth Leadership Development Program",
+    "description": "Mercy Corps invites proposals for a youth leadership development program in [Location]. The program should empower young leaders, build their capacities, and support their initiatives for positive change in their communities.",
+    "location": "Country M",
+    "deadline": "2030-01-10",
+    "budget": "150000 USD",
+    "contact_person": {
+      "name": "Harper Hayes",
+      "email": "harperhayes@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_069",
+    "title": "Economic Empowerment for Women Program",
+    "description": "Mercy Corps seeks proposals for an economic empowerment program for women in [Location]. The program should provide training, access to financial services, and support to women entrepreneurs to enhance their economic opportunities and empowerment.",
+    "location": "Country N",
+    "deadline": "2030-02-05",
+    "budget": "180000 USD",
+    "contact_person": {
+      "name": "Ivy Powell",
+      "email": "ivypowell@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_070",
+    "title": "Digital Agriculture Innovation Project",
+    "description": "Mercy Corps invites proposals for a digital agriculture innovation project in [Location]. The project should leverage digital technologies to improve agricultural practices, increase productivity, and enhance food security.",
+    "location": "Country O",
+    "deadline": "2030-03-20",
+    "budget": "200000 USD",
+    "contact_person": {
+      "name": "Logan Coleman",
+      "email": "logancoleman@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_071",
+    "title": "Rural Infrastructure Development Project",
+    "description": "Mercy Corps seeks proposals for a rural infrastructure development project in [Location]. The project aims to improve access to basic infrastructure such as roads, water supply, and sanitation facilities in rural areas.",
+    "location": "Country P",
+    "deadline": "2030-04-15",
+    "budget": "250000 USD",
+    "contact_person": {
+      "name": "Avery Diaz",
+      "email": "averydiaz@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_072",
+    "title": "Youth Empowerment Through Sports Program",
+    "description": "Mercy Corps invites proposals for a youth empowerment through sports program in [Location]. The program should use sports as a tool to promote leadership, teamwork, and life skills among young people.",
+    "location": "Country Q",
+    "deadline": "2030-05-10",
+    "budget": "200000 USD",
+    "contact_person": {
+      "name": "Harper Martinez",
+      "email": "harpermartinez@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_073",
+    "title": "Community-Based Renewable Energy Project",
+    "description": "Mercy Corps seeks proposals for a community-based renewable energy project in [Location]. The project should promote the use of renewable energy sources such as solar, wind, or hydro power to improve energy access and sustainability.",
+    "location": "Country R",
+    "deadline": "2030-06-25",
+    "budget": "300000 USD",
+    "contact_person": {
+      "name": "Logan Foster",
+      "email": "loganfoster@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_074",
+    "title": "Food Security and Nutrition Program",
+    "description": "Mercy Corps invites proposals for a food security and nutrition program in [Location]. The program should address food insecurity, malnutrition, and promote sustainable agriculture practices to improve food access and nutrition outcomes.",
+    "location": "Country S",
+    "deadline": "2030-07-20",
+    "budget": "250000 USD",
+    "contact_person": {
+      "name": "Ivy Hayes",
+      "email": "ivyhayes@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_075",
+    "title": "Urban Resilience Building Initiative",
+    "description": "Mercy Corps seeks proposals for an urban resilience building initiative in [Location]. The initiative should strengthen the resilience of urban communities to withstand and recover from shocks and stresses such as natural disasters, conflicts, or economic downturns.",
+    "location": "Country T",
+    "deadline": "2030-08-15",
+    "budget": "300000 USD",
+    "contact_person": {
+      "name": "Mason Adams",
+      "email": "masonadams@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_076",
+    "title": "Digital Health Solutions Project",
+    "description": "Mercy Corps invites proposals for a digital health solutions project in [Location]. The project should leverage digital technologies such as mobile apps, telemedicine, or health information systems to improve access to healthcare services, enhance health information management, and promote health education.",
+    "location": "Country U",
+    "deadline": "2030-09-10",
+    "budget": "250000 USD",
+    "contact_person": {
+      "name": "Harper Clark",
+      "email": "harperclark@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_077",
+    "title": "Entrepreneurship Ecosystem Development Program",
+    "description": "Mercy Corps seeks proposals for an entrepreneurship ecosystem development program in [Location]. The program should support the development of a conducive environment for entrepreneurship through capacity building, access to finance, networking opportunities, and policy advocacy.",
+    "location": "Country V",
+    "deadline": "2030-10-05",
+    "budget": "300000 USD",
+    "contact_person": {
+      "name": "Logan Martinez",
+      "email": "loganmartinez@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_078",
+    "title": "Climate Change Adaptation Initiative",
+    "description": "Mercy Corps invites proposals for a climate change adaptation initiative in [Location]. The initiative should enhance the resilience of vulnerable communities to climate change impacts through adaptation measures such as sustainable agriculture, water resource management, disaster risk reduction, and livelihood diversification.",
+    "location": "Country W",
+    "deadline": "2030-11-20",
+    "budget": "350000 USD",
+    "contact_person": {
+      "name": "Avery Foster",
+      "email": "averyfoster@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_079",
+    "title": "Youth Digital Literacy Program",
+    "description": "Mercy Corps seeks proposals for a youth digital literacy program in [Location]. The program should provide training and resources to young people to develop digital skills such as computer literacy, coding, digital communication, and online safety.",
+    "location": "Country X",
+    "deadline": "2030-12-15",
+    "budget": "250000 USD",
+    "contact_person": {
+      "name": "Harper Diaz",
+      "email": "harperdiaz@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_080",
+    "title": "Community-Led Education Enhancement Project",
+    "description": "Mercy Corps invites proposals for a community-led education enhancement project in [Location]. The project should engage communities, schools, and local stakeholders to improve education quality, access, and relevance through initiatives such as teacher training, infrastructure development, curriculum enrichment, and community involvement.",
+    "location": "Country Y",
+    "deadline": "2031-01-10",
+    "budget": "300000 USD",
+    "contact_person": {
+      "name": "Ivy Foster",
+      "email": "ivyfoster@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_081",
+    "title": "Community-Based Peacebuilding Project",
+    "description": "Mercy Corps seeks proposals for a community-based peacebuilding project in [Location]. The project should facilitate dialogue, reconciliation, and cooperation among diverse communities to address underlying drivers of conflict and promote sustainable peace.",
+    "location": "Country Z",
+    "deadline": "2031-02-05",
+    "budget": "350000 USD",
+    "contact_person": {
+      "name": "Logan Hayes",
+      "email": "loganhayes@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_082",
+    "title": "Empowerment of Persons with Disabilities Program",
+    "description": "Mercy Corps invites proposals for an empowerment of persons with disabilities program in [Location]. The program should promote the rights, inclusion, and participation of persons with disabilities in all aspects of society through advocacy, capacity building, and service provision.",
+    "location": "Country A",
+    "deadline": "2031-03-20",
+    "budget": "300000 USD",
+    "contact_person": {
+      "name": "Avery Martinez",
+      "email": "averymartinez@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_083",
+    "title": "Inclusive Economic Development Initiative",
+    "description": "Mercy Corps seeks proposals for an inclusive economic development initiative in [Location]. The initiative should promote economic opportunities, entrepreneurship, and livelihoods for marginalized groups such as women, youth, refugees, and persons with disabilities.",
+    "location": "Country B",
+    "deadline": "2031-04-15",
+    "budget": "350000 USD",
+    "contact_person": {
+      "name": "Harper Foster",
+      "email": "harperfoster@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_084",
+    "title": "Youth Civic Education Program",
+    "description": "Mercy Corps invites proposals for a youth civic education program in [Location]. The program should empower young people with knowledge, skills, and opportunities to engage in civic life, participate in democratic processes, and contribute to positive social change.",
+    "location": "Country C",
+    "deadline": "2031-05-10",
+    "budget": "300000 USD",
+    "contact_person": {
+      "name": "Ivy Hayes",
+      "email": "ivyhayes@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_085",
+    "title": "Climate-Smart Agriculture Project",
+    "description": "Mercy Corps seeks proposals for a climate-smart agriculture project in [Location]. The project should promote sustainable agricultural practices that enhance resilience to climate change, improve productivity, and reduce environmental impact.",
+    "location": "Country D",
+    "deadline": "2031-06-25",
+    "budget": "350000 USD",
+    "contact_person": {
+      "name": "Logan Foster",
+      "email": "loganfoster@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_086",
+    "title": "Gender-Responsive Water and Sanitation Project",
+    "description": "Mercy Corps invites proposals for a gender-responsive water and sanitation project in [Location]. The project should address the specific water, sanitation, and hygiene needs of women, girls, and other vulnerable groups, and promote gender equality and women's empowerment.",
+    "location": "Country E",
+    "deadline": "2031-07-20",
+    "budget": "300000 USD",
+    "contact_person": {
+      "name": "Avery Clark",
+      "email": "averyclark@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_087",
+    "title": "Disaster Risk Reduction and Resilience Building Project",
+    "description": "Mercy Corps seeks proposals for a disaster risk reduction and resilience building project in [Location]. The project should strengthen the capacity of communities, institutions, and systems to prepare for, respond to, and recover from natural and man-made disasters.",
+    "location": "Country F",
+    "deadline": "2031-08-15",
+    "budget": "350000 USD",
+    "contact_person": {
+      "name": "Harper Diaz",
+      "email": "harperdiaz@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_088",
+    "title": "Community-Led Health Promotion Project",
+    "description": "Mercy Corps invites proposals for a community-led health promotion project in [Location]. The project should empower communities to identify health priorities, develop and implement interventions, and improve access to healthcare services.",
+    "location": "Country G",
+    "deadline": "2031-09-10",
+    "budget": "300000 USD",
+    "contact_person": {
+      "name": "Logan Martinez",
+      "email": "loganmartinez@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_089",
+    "title": "Youth Employment and Skills Development Program",
+    "description": "Mercy Corps seeks proposals for a youth employment and skills development program in [Location]. The program should provide training, apprenticeships, and job placement services to equip young people with marketable skills and facilitate their transition to decent employment.",
+    "location": "Country H",
+    "deadline": "2031-10-05",
+    "budget": "350000 USD",
+    "contact_person": {
+      "name": "Avery Hayes",
+      "email": "averyhayes@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_090",
+    "title": "Community-Led Education Access Project",
+    "description": "Mercy Corps invites proposals for a community-led education access project in [Location]. The project should increase access to quality education for marginalized children, improve school infrastructure, and enhance learning outcomes through innovative approaches.",
+    "location": "Country I",
+    "deadline": "2031-11-20",
+    "budget": "300000 USD",
+    "contact_person": {
+      "name": "Harper Foster",
+      "email": "harperfoster@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_091",
+    "title": "Community-Led Sustainable Livelihoods Project",
+    "description": "Mercy Corps seeks proposals for a community-led sustainable livelihoods project in [Location]. The project aims to enhance the economic well-being and resilience of vulnerable communities through sustainable livelihood opportunities, natural resource management, and income diversification.",
+    "location": "Country J",
+    "deadline": "2031-12-15",
+    "budget": "350000 USD",
+    "contact_person": {
+      "name": "Logan Diaz",
+      "email": "logandiaz@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_092",
+    "title": "Youth-Led Social Innovation Project",
+    "description": "Mercy Corps invites proposals for a youth-led social innovation project in [Location]. The project should empower young innovators to develop and implement solutions to address social, economic, or environmental challenges in their communities.",
+    "location": "Country K",
+    "deadline": "2032-01-10",
+    "budget": "300000 USD",
+    "contact_person": {
+      "name": "Avery Clark",
+      "email": "averyclark@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_093",
+    "title": "Women's Leadership and Empowerment Initiative",
+    "description": "Mercy Corps seeks proposals for a women's leadership and empowerment initiative in [Location]. The initiative should promote gender equality, women's participation in decision-making processes, and women's leadership in various spheres of society.",
+    "location": "Country L",
+    "deadline": "2032-02-05",
+    "budget": "350000 USD",
+    "contact_person": {
+      "name": "Harper Hayes",
+      "email": "harperhayes@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_094",
+    "title": "Digital Skills for Youth Employment Project",
+    "description": "Mercy Corps invites proposals for a digital skills for youth employment project in [Location]. The project should equip young people with digital skills such as coding, digital marketing, and data analysis to enhance their employability and entrepreneurship opportunities in the digital economy.",
+    "location": "Country M",
+    "deadline": "2032-03-20",
+    "budget": "300000 USD",
+    "contact_person": {
+      "name": "Logan Martinez",
+      "email": "loganmartinez@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_095",
+    "title": "Community Health and Nutrition Promotion Project",
+    "description": "Mercy Corps seeks proposals for a community health and nutrition promotion project in [Location]. The project should improve access to essential healthcare services, promote healthy behaviors, and address malnutrition among vulnerable populations.",
+    "location": "Country N",
+    "deadline": "2032-04-15",
+    "budget": "350000 USD",
+    "contact_person": {
+      "name": "Avery Foster",
+      "email": "averyfoster@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_096",
+    "title": "Urban Youth Empowerment Program",
+    "description": "Mercy Corps invites proposals for an urban youth empowerment program in [Location]. The program should provide comprehensive support to urban youth, including education, skills training, mentorship, and access to economic opportunities.",
+    "location": "Country O",
+    "deadline": "2032-05-10",
+    "budget": "300000 USD",
+    "contact_person": {
+      "name": "Harper Hayes",
+      "email": "harperhayes@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_097",
+    "title": "Climate Resilient Infrastructure Development Project",
+    "description": "Mercy Corps seeks proposals for a climate resilient infrastructure development project in [Location]. The project should design and implement infrastructure projects that are resilient to climate change impacts such as floods, storms, and sea-level rise.",
+    "location": "Country P",
+    "deadline": "2032-06-25",
+    "budget": "350000 USD",
+    "contact_person": {
+      "name": "Logan Diaz",
+      "email": "logandiaz@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_098",
+    "title": "Peacebuilding through Education Program",
+    "description": "Mercy Corps invites proposals for a peacebuilding through education program in [Location]. The program should promote peace, reconciliation, and social cohesion through inclusive and conflict-sensitive education initiatives.",
+    "location": "Country Q",
+    "deadline": "2032-07-20",
+    "budget": "300000 USD",
+    "contact_person": {
+      "name": "Avery Hayes",
+      "email": "averyhayes@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_099",
+    "title": "Youth-Led Environmental Conservation Project",
+    "description": "Mercy Corps seeks proposals for a youth-led environmental conservation project in [Location]. The project should engage young people in conservation efforts, biodiversity protection, and sustainable natural resource management.",
+    "location": "Country R",
+    "deadline": "2032-08-15",
+    "budget": "350000 USD",
+    "contact_person": {
+      "name": "Harper Martinez",
+      "email": "harpermartinez@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  },
+  {
+    "tender_id": "MC_Tender_100",
+    "title": "Rural Entrepreneurship Development Program",
+    "description": "Mercy Corps invites proposals for a rural entrepreneurship development program in [Location]. The program should support the development of rural enterprises, provide access to finance and markets, and strengthen entrepreneurial skills among rural communities.",
+    "location": "Country S",
+    "deadline": "2032-09-10",
+    "budget": "300000 USD",
+    "contact_person": {
+      "name": "Logan Foster",
+      "email": "loganfoster@mercycorps.org",
+      "phone": "+1122334455"
+    }
+  }
+]

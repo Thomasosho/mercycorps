@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "label": "Mercy Corps Tenders",
+      "subOptions": [
+        "Government Contracts",
+        "International Aid Projects",
+        "Infrastructure Development",
+        "Humanitarian Assistance",
+        "Disaster Relief Programs"
+      ]
+    },
+    {
+      "id": 2,
+      "label": "About Mercy Corps",
+      "subOptions": [
+        "Our Mission and Values",
+        "History and Founding",
+        "Global Reach and Impact",
+        "Partnerships and Collaborations",
+        "Leadership Team"
+      ]
+    },
+    {
+      "id": 3,
+      "label": "Contact Mercy Corps",
+      "subOptions": [
+        "General Inquiries",
+        "Media and Press",
+        "Partnership Opportunities",
+        "Careers and Employment",
+        "Donations and Fundraising"
+      ]
+    }
+  ]
+  
