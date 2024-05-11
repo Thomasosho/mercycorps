@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.align-center-text {
+    text-align: -webkit-center !important;
+  }
